@@ -1,0 +1,70 @@
+body {
+  color: #FBF5F3;
+  background-image: url("wood.jpg");
+  text-align: center;
+  font-size: 50px;
+  font-family: "Times New Roman";
+}
+
+h1 {
+  text-align: center;
+  font-size: 35px;
+  color:#E6B89C;
+  font-family: "Lucida Console";
+}
+
+h2 {
+  text-align: center;
+}
+
+h3{
+  text-align: left;
+  font-size: 35px;
+  color: #E6B89C;
+}
+
+h4{
+  font-size: 35px;
+  color: #E6B89C;
+  text-align: left;
+}
+
+a:link{
+  color: #E6B89C;
+}
+
+a:visited{
+  color: #F1F2EB;
+}
+
+p{
+  text-align: left;
+  font-size: 30px;
+  color:#E6B89C;
+  font-family: "Lucida Console";
+}
+
+.active{
+  background-color: #FBF5F3;
+}
+
+.scrollmenu {
+background-color:#ED9390;
+float:center;
+overflow: auto;
+white-space: nowrap;
+font-size: 50px;
+text-align: center;
+}
+
+.scrollmenu a {
+display: inline-block;
+color: #230903;
+text-align: center;
+padding: 14px;
+text-decoration: none;
+}
+
+.scrollmenu a:hover {
+background-color: #777;
+}
